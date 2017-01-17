@@ -12,6 +12,10 @@ Clone
 
 `git clone https://github.com/racingcow/bodyspace-api.git`
 
+Change Directory
+
+`cd bodyspace-api`
+
 Restore Dependencies
 
 `dotnet restore`
